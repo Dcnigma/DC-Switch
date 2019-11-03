@@ -1,5 +1,6 @@
 # DC-Switch
 Small App that will update my switch with files from the internet P.O.C.
+![alt text](http://dcnigma.eu5.org/wp-content/uploads/2019/11/2019110312221100-B9CA2278025A7707FE11C7E26674FDB9.jpg)
 
 Based on Atmosphere updater 0.5.0
 ----
